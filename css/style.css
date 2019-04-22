@@ -58,9 +58,11 @@ img:hover {
 
 .med {
   width: 64%;
+  display: inline-block;
 }
 
 .large {
   width: 100%;
+  display: inline-block;
   
 }
